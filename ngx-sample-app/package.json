@@ -19,10 +19,10 @@
     "@angular/platform-browser": "~11.2.6",
     "@angular/platform-browser-dynamic": "~11.2.6",
     "@angular/router": "~11.2.6",
+    "ngx-shared-lib": "file:../ngx-shared-lib/dist/ngx-shared-lib",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
-    "zone.js": "~0.11.3",
-    "ngx-shared-lib": "file://C://DEV-Vicky//angular-local-lib-example//ngx-shared-lib//dist//ngx-shared-lib"
+    "zone.js": "~0.11.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1102.5",
